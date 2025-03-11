@@ -37,7 +37,7 @@ This challenge used skills learned with JavaScript, D3 library, JSON, HTML, and 
 ## Results
 Below is a screenshot taken of the HTML created website of the Belly Button Biodversity, showing a random sample with the bar chart and the bubble chart. 
 
-![alt text](?raw=true) 
+![alt text](https://github.com/maddieemihle/belly-button-challenge/blob/main/html_dashboard.png?raw=true) 
 
 ## Methods Used 
 * JavaScript 
