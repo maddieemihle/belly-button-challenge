@@ -1,7 +1,7 @@
 # Belly Button Challenge
 
 ## Background 
-In this challenge, an interactive dashboard was created to explore the 'Belly Button Biodiversity' dataset, which catalogs the microbes that colonize human navels. The study was taken from "A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable" (_Hulcr, 2012_). In this study, it was found that belly buttons were a jungle of microbial diversity, having detected over 2300 species in navels. This dataset revealed that a small handful of microbial species (also called operational taxonomic units or OTUs) werepresent in more than 70% of people. The rest were relatively rare as the data shows. 
+In this challenge, an interactive dashboard was created to explore the 'Belly Button Biodiversity' dataset, which catalogs the microbes that colonize human navels. The study was taken from "A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable" (_Hulcr, 2012_). This study found that belly buttons were a jungle of microbial diversity, having detected over 2300 species in navels. This dataset revealed that a small handful of microbial species (also called operational taxonomic units or OTUs) were present in more than 70% of people. The rest were relatively rare, as the data shows. 
 
 This challenge used skills learned with JavaScript, D3 library, JSON, HTML, and Plotly. 
 
@@ -10,7 +10,7 @@ This challenge used skills learned with JavaScript, D3 library, JSON, HTML, and 
 1. **Initalize the Dashboard**
 - Fetch the data from the provided URL using D3 library and read in _samples.json_. 
 - Populate the dropdown menu with sample names. 
-- Build the inital charts and metadata panels using the first sample. 
+- Build the initial charts and metadata panels using the first sample. 
 
 2. **Build the Metadata Panel**
 - Filter the metadata for the selected sample. 
